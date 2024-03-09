@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Rita"];
+const statusMessages = ["Uber & Bolt Community"];
 
 
 let currentIndex = 0;
